@@ -143,7 +143,9 @@ $(function(){
 		{ value: 'Vivek Goswami | panditv971@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Vivek+Goswami.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Vivek+Goswami.jpg">Download</a>'},
 		{ value: 'Vivek Tiwari | vivek.tiwari_mba18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Vivek+Tiwari.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Vivek+Tiwari.jpg">Download</a>'},
 		{ value: 'Yash Gupta | yash.gupta_bcom16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Yash+Gupta.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Yash+Gupta.jpg">Download</a>'},
-		{ value: 'Yug Pratap | singhpratapyug@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Yug+Pratap.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Yug+Pratap.jpg">Download</a>'}
+		{ value: 'Yug Pratap | singhpratapyug@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Yug+Pratap.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Yug+Pratap.jpg">Download</a>'},
+	  	{ value: 'Rishiraj Ojha | rishi0554@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Rishiraj+Ojha.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Rishiraj+Ojha.jpg">Download</a>'},
+	  	{ value: 'Abhilash Srivastava | abhilash.srivastava_mbals18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhilash+Srivastava.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhilash+Srivastava.jpg">Download</a>'}
     ];
   
   // setup autocomplete function pulling from currencies[] array
