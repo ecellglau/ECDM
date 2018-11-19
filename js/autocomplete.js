@@ -92,7 +92,7 @@ $(function(){
 		{ value: 'Nidhi Jain | nidhi.jain252000@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nidhi+Jain.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nidhi+Jain.jpg">Download</a>'},
 		{ value: 'Nidhi Tripathi | tripathinidhi471@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nidhi+Tripathi.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nidhi+Tripathi.jpg">Download</a>'},
 		{ value: 'Nikhil Jain | Nikhil.jain_mba18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nikhil+Jain.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nikhil+Jain.jpg">Download</a>'},
-		{ value: 'Nikunj Mnai Gupta | nikunj.gupta_cs18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nikunj+Mnai+Gupta.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nikunj+Mnai+Gupta.jpg">Download</a>'},
+		{ value: 'Nikunj Mani Gupta | nikunj.gupta_cs18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nikunj+Mnai+Gupta.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nikunj+Mnai+Gupta.jpg">Download</a>'},
 		{ value: 'Nilay Kant Tripathi | Nilay.tripathi_mba18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nilay+Kant+Tripathi.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nilay+Kant+Tripathi.jpg">Download</a>'},
 		{ value: 'Nisha Sundrani | nishasundrani1995@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nisha+Sundrani.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nisha+Sundrani.jpg">Download</a>'},
 		{ value: 'Nmana Bansal | bansal1007naman@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nmana+Bansal.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Nmana+Bansal.jpg">Download</a>'},
@@ -125,7 +125,7 @@ $(function(){
 		{ value: 'Shreya Agrawal | shreya1998.Sa@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Shreya+Agrawal.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Shreya+Agrawal.jpg">Download</a>'},
 		{ value: 'Shruti Agrawal | shruti.agrawal_mba18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Shruti+Agrawal.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Shruti+Agrawal.jpg">Download</a>'},
 		{ value: 'Shubham Pathak | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Shubham+Pathak.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Shubham+Pathak.jpg">Download</a>'},
-		{ value: 'Shubhar Rai | indiamale007@rediffmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Shubhar+Rai.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Shubhar+Rai.jpg">Download</a>'},
+		{ value: 'Shekhar Rai | indiamale007@rediffmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Shubhar+Rai.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Shubhar+Rai.jpg">Download</a>'},
 		{ value: 'Siddhant Anand | siddhant123anand@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Siddhant+Anand.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Siddhant+Anand.jpg">Download</a>'},
 		{ value: 'Simran Kaur | ksimran1509@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Simran+Kaur.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Simran+Kaur.jpg">Download</a>'},
 		{ value: 'Sumangra Agbihotri | samaragnohotri@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Sumangra+Agbihotri.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Sumangra+Agbihotri.jpg">Download</a>'},
@@ -145,7 +145,9 @@ $(function(){
 		{ value: 'Yash Gupta | yash.gupta_bcom16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Yash+Gupta.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Yash+Gupta.jpg">Download</a>'},
 		{ value: 'Yug Pratap | singhpratapyug@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Yug+Pratap.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Yug+Pratap.jpg">Download</a>'},
 	  	{ value: 'Rishiraj Ojha | rishi0554@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Rishiraj+Ojha.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Rishiraj+Ojha.jpg">Download</a>'},
-	  	{ value: 'Abhilash Srivastava | abhilash.srivastava_mbals18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhilash+Srivastava.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhilash+Srivastava.jpg">Download</a>'}
+	  	{ value: 'Abhilash Srivastava | abhilash.srivastava_mbals18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhilash+Srivastava.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhilash+Srivastava.jpg">Download</a>'},
+	  	{ value: 'Abhay Maheshwari | abhaymah1999@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhay+Maheshwari.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhay+Maheshwari.jpg">Download</a>'},
+	  	{ value: 'Harsh Mishra | harsh8765mishra@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Harsh+Mishra.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Harsh+Mishra.jpg">Download</a>'}
     ];
   
   // setup autocomplete function pulling from currencies[] array
