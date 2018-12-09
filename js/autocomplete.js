@@ -147,10 +147,10 @@ $(function(){
 	  	{ value: 'Rishiraj Ojha | rishi0554@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Rishiraj+Ojha.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Rishiraj+Ojha.jpg">Download</a>'},
 	  	{ value: 'Abhilash Srivastava | abhilash.srivastava_mbals18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhilash+Srivastava.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhilash+Srivastava.jpg">Download</a>'},
 	  	{ value: 'Abhay Maheshwari | abhaymah1999@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhay+Maheshwari.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Abhay+Maheshwari.jpg">Download</a>'},
-	  	{ value: 'Harsh Mishra | harsh8765mishra@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Harsh+Mishra1.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Harsh+Mishra1.jpg">Download</a>'}
-		{ value: 'Ankita Agrawal | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Ankita+Agrawal.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Ankita+Agrawal.jpg">Download</a>'}
-		{ value: 'Rashmi Khandelwal | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Rashmi+Khandelwal.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Rashmi+Khandelwal.jpg">Download</a>'}
-		{ value: 'Chirag | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Chirag.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Chirag.jpg">Download</a>'}
+	  	{ value: 'Harsh Mishra | harsh8765mishra@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Harsh+Mishra1.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Harsh+Mishra1.jpg">Download</a>'},
+		{ value: 'Ankita Agrawal | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Ankita+Agrawal.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Ankita+Agrawal.jpg">Download</a>'},
+		{ value: 'Rashmi Khandelwal | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Rashmi+Khandelwal.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Rashmi+Khandelwal.jpg">Download</a>'},
+		{ value: 'Chirag | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Chirag.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Chirag.jpg">Download</a>'},
 		{ value: 'Aryan Gupta | aryan.gupta_bba18@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/ec4dmw/Aryan+Gupta.jpg" target="_blank" download="https://s3.ap-south-1.amazonaws.com/ec4dmw/Aryan+Gupta.jpg">Download</a>'}
     ];
   
